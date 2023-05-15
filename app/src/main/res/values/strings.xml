@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Real Estate Manager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="take_picture">Prendre une photo</string>
+    <string name="take_picture_description">Donner une description de la photo</string>
+    <string name="ok_button_title">Ok</string>
+    <string name="MAPS_API_KEY">AIzaSyA-D0NXaMuK_aI6tfDf4bJIMt90KB61eiQ</string>
+    <string name="map_id">b9150fbf633c456a</string>
+
+
+</resources>

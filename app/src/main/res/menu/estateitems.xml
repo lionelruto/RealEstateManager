@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tools:menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".views.First_Activity">
+    <item
+        android:id="@+id/menusearch"
+        android:title="rechercher"
+        android:iconTint="@android:color/white"
+        android:icon="@drawable/ic_stat_search"
+        app:showAsAction="ifRoom|withText"
+        app:actionViewClass="android.widget.SearchView"
+        />
+
+    <item
+        android:id="@+id/menuedit"
+        android:title="edit"
+        android:icon="@drawable/ic_stat_edit"
+        app:showAsAction="always"
+        />
+
+</tools:menu>
